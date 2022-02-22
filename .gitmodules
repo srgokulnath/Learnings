@@ -1,0 +1,6 @@
+[submodule ".\\PROJECT_MADLIB"]
+	path = .\\PROJECT_MADLIB
+	url = https://github.com/srgokulnath/MADLIB
+[submodule ".\\cs50"]
+	path = .\\cs50
+	url = https://github.com/srgokulnath/cs50
